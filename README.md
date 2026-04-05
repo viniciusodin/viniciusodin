@@ -14,7 +14,7 @@ Após uma jornada de mais de 10 anos no setor financeiro (Santander), uni minha 
 
 ---
 
-### 🛠️ Minha Stack Tecnológica:
+### Minha Stack Tecnológica:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -23,7 +23,7 @@ Após uma jornada de mais de 10 anos no setor financeiro (Santander), uni minha 
 
 ---
 
-### 📫 Vamos conversar?
+### Vamos conversar?
 - **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/vinicius-v-317629183)
 - **Localização:** Mogi das Cruzes, SP - Brasil 🇧🇷
 - **Hobby:** World War Z no PS5 e atualmente Lendo "O Nome do Vento".
